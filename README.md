@@ -20,7 +20,7 @@ Here is a screenshot of the application:
 ![Screenshot Command Line](https://github.com/heatherloisejackson/E-commerceBackEnd/blob/main/assets/CommandLineScreenshot.png)
 ![Screenshot Insomnia](https://github.com/heatherloisejackson/E-commerceBackEnd/blob/main/assets/InsomniaScreenshot.png)
 
-Here is a link to a screen-recording of a demo of the application: [Demo.mov](https://drive.google.com/file/d/18hnUhs02a1WeCajlpU6igZw3p32M2uUC/view?usp=sharing)
+Here is a link to a screen-recording of the application: [Demo.mov](https://drive.google.com/file/d/13omVTTt-NNAzMCI07F6SRoanWmdKLGdY/view?usp=sharing)
 
 
 ## Credits
